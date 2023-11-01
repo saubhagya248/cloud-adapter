@@ -11,3 +11,4 @@ spring:
               - profile
               - email
               - https://www.googleapis.com/auth/drive
+            redirect-uri: http://localhost:8080/
